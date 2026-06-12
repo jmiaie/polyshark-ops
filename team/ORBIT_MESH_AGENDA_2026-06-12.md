@@ -117,9 +117,9 @@
 **Actions:**
 | # | Owner | Action | Status |
 |---|-------|--------|--------|
-| N1 | Jeff | Identify where Nemoclaw is running (NVIDIA cloud? GPU VM? which account?) | ⏳ CRITICAL |
-| N2 | Jeff | Log into that account and terminate the instance/service | ⏳ CRITICAL |
-| N3 | Jeff | Cancel any associated subscriptions or commitments | ⏳ CRITICAL |
+| N1 | Jeff | Identify where Nemoclaw is running (NVIDIA cloud? GPU VM? which account?) | ✅ DONE |
+| N2 | Jeff | Log into that account and terminate the instance/service | ✅ DONE |
+| N3 | Jeff | Cancel any associated subscriptions or commitments | ✅ DONE |
 | N4 | Tai | Confirm termination and document what was running | ⏳ Pending |
 
 ---
