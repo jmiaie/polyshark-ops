@@ -1,3 +1,6 @@
+> **Repo role (2026-09-30):** This remote is the **Polyshark team knowledge base** (`team/`, ops briefs).  
+> The pliamem-shaped tree at the root is a **stale embedded copy** — canonical recall/router is [`jmiaie/pliamem`](https://github.com/jmiaie/pliamem); memory SKU is [`jmiaie/ompa`](https://github.com/jmiaie/ompa). See [`STATUS.md`](STATUS.md).
+
 <div align="center">
   <h1>🧩 Pliamem</h1>
   <p><b>Your AI's memory, unified. A pliable memory microservice for AI swarms and agents.</b></p>
