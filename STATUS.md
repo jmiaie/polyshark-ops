@@ -39,6 +39,6 @@ No CI workflow changes in this hygiene pass (token lacks `workflow` scope).
 
 ## Next (owner)
 
-1. Optionally rewrite root README to lead with **team KB** and link canonical pliamem/OMPA
-2. Or strip/archive the embedded pliamem tree once private pliamem is enough
+1. ~~Rewrite root README to lead with team KB~~ **done** (2026-09-30 follow-up)
+2. Strip/archive the embedded pliamem tree **only after** Jeff confirms KB-only (no large delete in bot waves)
 3. Keep career/recruiting material out of automated outbound (CAREER gate off for bots)
